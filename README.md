@@ -45,9 +45,9 @@ All the rooms herein, are absolute free. ATTACK!!
 | **Total Rooms:**                                  | **= 378**       |                           |
 
 ## Intro Rooms
-* [TryHackMe | Preparation](https://tryhackme.com/room/preparation)
+* [TryHackMe | Preparation](https://tryhackme.com/room/preparation) [x]
 
-* [TryHackMe | Intro to Logs](https://tryhackme.com/room/introtologs)
+* [TryHackMe | Intro to Logs](https://tryhackme.com/room/introtologs) [x]
 
 * [TryHackMe | Intro to Threat Emulation](https://tryhackme.com/room/threatemulationintro)
 
@@ -57,21 +57,21 @@ All the rooms herein, are absolute free. ATTACK!!
 
 * [TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
 
-* [TryHackMe | Welcome](https://tryhackme.com/room/hello)
+* [TryHackMe | Welcome](https://tryhackme.com/room/hello) [x]
 
-* [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
+* [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme) [x]
 
-* [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
+* [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial) [x]
 
-* [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
+* [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn) [x]
 
-* [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
+* [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro) [x]
 
-* [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
+* [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec) [x]
 
-* [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch) 
+* [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch) [x]
 
-* [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
+* [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex) [x]
 
 ## Linux Fundamentals
 
