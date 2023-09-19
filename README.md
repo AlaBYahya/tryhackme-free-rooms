@@ -76,13 +76,13 @@ All the rooms herein, are absolute free. ATTACK!!
 ## Linux Fundamentals
 
 
-* [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
+* [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules) [x]
 
-* [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
+* [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1) [x]
 
-* [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
+* [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2) [x]
 
-* [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
+* [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3) [x]
 
 ## Windows Fundamentals
 
@@ -103,13 +103,13 @@ All the rooms herein, are absolute free. ATTACK!!
 
 * [TryHackMe | Threat Intelligence for SOC](https://tryhackme.com/room/threatintelligenceforsoc)
 
-* [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
+* [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt) [x]
 
-* [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
+* [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals) [x]
 
-* [TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)
+* [TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity) [x]
 
-* [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
+* [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology) [x]
 
 * [TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
 
@@ -124,25 +124,25 @@ All the rooms herein, are absolute free. ATTACK!!
 ## Recon
 
 
-* [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
+* [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon) [x]
 
-* [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
+* [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon) [x]
 
-* [TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
+* [TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery) [x]
 
-* [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
+* [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint) [x]
 
-* [TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
+* [TryHackMe | Shodan.io](https://tryhackme.com/room/shodan) [x]
 
-* [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
+* [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking) [x]
 
-* [TryHackMe | WebOSINT](https://tryhackme.com/room/webosint)
+* [TryHackMe | WebOSINT](https://tryhackme.com/room/webosint) [x]
 
 * [TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
 
-* [TryHackMe | Red Team Recon](https://tryhackme.com/room/redteamrecon)
+* [TryHackMe | Red Team Recon](https://tryhackme.com/room/redteamrecon) [x]
 
-* [TryHackMe | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
+* [TryHackMe | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint) [x]
 
 ## Scripting
 
@@ -189,7 +189,7 @@ All the rooms herein, are absolute free. ATTACK!!
 
 * [TryHackMe | REmux The Tmux](https://tryhackme.com/room/tmuxremux)
 
-* [TryHackMe | Hydra](https://tryhackme.com/room/hydra)
+* [TryHackMe | Hydra](https://tryhackme.com/room/hydra) [x]
 
 * [TryHackMe | Toolbox: Vim](https://tryhackme.com/room/toolboxvim)
 
@@ -199,11 +199,11 @@ All the rooms herein, are absolute free. ATTACK!!
 
 * [TryHackMe | RustScan](https://tryhackme.com/room/rustscan)
 
-* [TryHackMe | Nessus](https://tryhackme.com/room/rpnessusredux)
+* [TryHackMe | Nessus](https://tryhackme.com/room/rpnessusredux) [x]
 
-* [TryHackMe | Nmap Live Host Discovery](https://tryhackme.com/room/nmap01)
+* [TryHackMe | Nmap Live Host Discovery](https://tryhackme.com/room/nmap01) [x]
 
-* [TryHackMe | Nmap](https://tryhackme.com/room/furthernmap)
+* [TryHackMe | Nmap](https://tryhackme.com/room/furthernmap) [x]
 
 * [TryHackMe | TShark](https://tryhackme.com/room/tshark)
 
@@ -255,7 +255,7 @@ All the rooms herein, are absolute free. ATTACK!!
 
 * [TryHackMe | Walking An Application](https://tryhackme.com/room/walkinganapplication)
 
-* [TryHackMe | OWASP Top 10 - 2021](https://tryhackme.com/room/owasptop102021)
+* [TryHackMe | OWASP Top 10 - 2021](https://tryhackme.com/room/owasptop102021) [x]
 
 * [TryHackMe | OWASP Top 10](https://tryhackme.com/room/owasptop10)
 
@@ -281,14 +281,14 @@ All the rooms herein, are absolute free. ATTACK!!
 
 * [TryHackMe | Inclusion](https://tryhackme.com/room/inclusion)
 
-* [TryHackMe | SQL Injection Lab](https://tryhackme.com/room/sqlilab)
+* [TryHackMe | SQL Injection Lab](https://tryhackme.com/room/sqlilab) 
 
-* [TryHackMe | SSTI](https://tryhackme.com/room/learnssti)
+* [TryHackMe | SSTI](https://tryhackme.com/room/learnssti) [x]
 
 * [TryHackMe | SQL Injection](https://tryhackme.com/room/sqlinjectionlm)
 
-* [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
-
+* [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt) [x]
+  
 * [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
 
 * [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
