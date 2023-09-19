@@ -164,28 +164,28 @@ All the rooms herein, are absolute free. ATTACK!!
 ## Networking
 
 
-* [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
+* [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking) [x]
 
-* [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
+* [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking) [x]
 
 * [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
 
-* [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)
+* [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan) [x]
 
-* [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
+* [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail) [x]
 
-* [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
+* [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail) [x]
 
 * [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 
 ## Tooling
 
 
-* [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
+* [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro) [x]
 
 * [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/rpmetasploit)
 
-* [TryHackMe | tmux](https://tryhackme.com/room/rptmux)
+* [TryHackMe | tmux](https://tryhackme.com/room/rptmux) [x]
 
 * [TryHackMe | REmux The Tmux](https://tryhackme.com/room/tmuxremux)
 
@@ -273,7 +273,7 @@ All the rooms herein, are absolute free. ATTACK!!
 
 * [TryHackMe | Juicy Details](https://tryhackme.com/room/juicydetails)
 
-* [TryHackMe | Vulnversity](https://tryhackme.com/room/vulnversity)
+* [TryHackMe | Vulnversity](https://tryhackme.com/room/vulnversity) [x]
 
 * [TryHackMe | Injection](https://tryhackme.com/room/injection)
 
