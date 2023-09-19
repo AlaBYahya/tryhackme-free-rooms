@@ -87,11 +87,11 @@ All the rooms herein, are absolute free. ATTACK!!
 ## Windows Fundamentals
 
 
-* [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
+* [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx) [x]
 
-* [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
+* [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x) [x]
 
-* [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
+* [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx) [x]
 
 ## Basics Rooms
 
@@ -157,7 +157,7 @@ All the rooms herein, are absolute free. ATTACK!!
 
 * [TryHackMe | JavaScript Basics](https://tryhackme.com/room/javascriptbasics)
 
-* [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting)
+* [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting) [x]
 
 * [TryHackMe | Learn Rust](https://tryhackme.com/room/rust)
 
@@ -209,9 +209,9 @@ All the rooms herein, are absolute free. ATTACK!!
 
 * [TryHackMe | ffuf](https://tryhackme.com/room/ffuf)
 
-* [TryHackMe | Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)
+* [TryHackMe | Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics) [x]
 
-* [TryHackMe | Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)
+* [TryHackMe | Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater) [x]
 
 ## Cryptography & Hashes
 
@@ -253,7 +253,7 @@ All the rooms herein, are absolute free. ATTACK!!
 
 * [TryHackMe | Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)
 
-* [TryHackMe | Walking An Application](https://tryhackme.com/room/walkinganapplication)
+* [TryHackMe | Walking An Application](https://tryhackme.com/room/walkinganapplication) [x]
 
 * [TryHackMe | OWASP Top 10 - 2021](https://tryhackme.com/room/owasptop102021) [x]
 
@@ -499,7 +499,7 @@ All the rooms herein, are absolute free. ATTACK!!
 
 * [TryHackMe | Thompson](https://tryhackme.com/room/bsidesgtthompson)
 
-* [TryHackMe | Simple CTF](https://tryhackme.com/room/easyctf)
+* [TryHackMe | Simple CTF](https://tryhackme.com/room/easyctf) [x]
 
 * [TryHackMe | LazyAdmin](https://tryhackme.com/room/lazyadmin)
 
@@ -523,7 +523,7 @@ All the rooms herein, are absolute free. ATTACK!!
 
 * [TryHackMe | Blaster](https://tryhackme.com/room/blaster)
 
-* [TryHackMe | Encryption - Crypto 101](https://tryhackme.com/room/encryptioncrypto101)
+* [TryHackMe | Encryption - Crypto 101](https://tryhackme.com/room/encryptioncrypto101) [x]
 
 * [TryHackMe | Brooklyn Nine Nine](https://tryhackme.com/room/brooklynninenine)
 
@@ -547,7 +547,7 @@ All the rooms herein, are absolute free. ATTACK!!
 
 * [TryHackMe | Source](https://tryhackme.com/room/source)
 
-* [TryHackMe | Overpass](https://tryhackme.com/room/overpass)
+* [TryHackMe | Overpass](https://tryhackme.com/room/overpass) [x]
 
 * [TryHackMe | Gotta Catch&#39;em All!](https://tryhackme.com/room/pokemon)
 
@@ -874,7 +874,7 @@ All the rooms herein, are absolute free. ATTACK!!
 
 - [TryHackMe | Introduction to Flask](https://tryhackme.com/room/flask)
 
-- [TryHackMe | MITRE](https://tryhackme.com/room/mitre)
+- [TryHackMe | MITRE](https://tryhackme.com/room/mitre) [x]
 
 - [TryHackMe | magician](https://tryhackme.com/room/magician)
 
